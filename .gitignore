@@ -4,6 +4,8 @@
 ### UnrealEngine ###
 #Starter Content
 Content/StarterContent/*
+Content/TemplateContent/StartContent*
+
 
 # Visual Studio 2015 user specific files
 .vs/
