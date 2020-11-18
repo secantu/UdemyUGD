@@ -17,6 +17,7 @@ void AFloater::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	SetActorLocation(FVector(0.0f, 0.0f, 0.0f));
 }
 
 // Called every frame
